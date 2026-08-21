@@ -13,10 +13,10 @@ title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Daiqing Wu"
 description              : &description "Daiqing Wu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://wudaiqing.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://wdqqdw.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wudaiqing/wudaiqing.github.io"
+repository               : "wdqqdw/wdqqdw.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,7 +30,7 @@ author:
   location         : "Beijing, China"
   employer         : "IIE, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "wudaiqing@iie.ac.cn" 
+  email            : "wdq272904650@163.com"
 
   # Academic websites
   academia         : # URL
