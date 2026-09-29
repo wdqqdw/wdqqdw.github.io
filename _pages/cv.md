@@ -14,5 +14,5 @@ redirect_from:
 
 ### 学术服务
 
-* 会议审稿：ICLR 26~, ICML 26~, CVPR 26~, ECCV 26~, AAAI 26~, ACMMM 25~, ICMR 26~
-* 期刊审稿：TAFFC, PR
+* 会议审稿：ICLR 26~, ICML 26~, NeurIPS 2026-, CVPR 26~, ECCV 26~, ACL ARR 2026 May-, AAAI 26~, ACMMM 25~, IJCAI 2026-, ICMR 26~
+* 期刊审稿：IJCV, TAFFC, PR
